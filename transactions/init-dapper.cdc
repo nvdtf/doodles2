@@ -1,4 +1,4 @@
- import Wearables from 0xe81193c424cfd3fb
+import Wearables from 0xe81193c424cfd3fb
 import NonFungibleToken from 0x1d7e57aa55817448
 import MetadataViews from 0x1d7e57aa55817448
 import Profile from 0x097bafa4e0b48eef
